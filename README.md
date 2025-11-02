@@ -42,5 +42,5 @@ By directly mapping datasets to OMOP standards, my work ensured that data from d
   ### Comparative Analysis on the Various Cohorts
 
 ![Image](https://github.com/user-attachments/assets/38e8453e-eb21-4c7f-9681-684f3254da95)
-  ### Comparative Analysis on the Various Cohorts
+  ### Generation Scotland's Data Analysis Visualisation
 
