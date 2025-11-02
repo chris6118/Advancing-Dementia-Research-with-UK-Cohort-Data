@@ -44,3 +44,26 @@ By directly mapping datasets to OMOP standards, my work ensured that data from d
 ![Image](https://github.com/user-attachments/assets/38e8453e-eb21-4c7f-9681-684f3254da95)
   ### Generation Scotland's Data Analysis Visualisation
 
+From the above distributions area frequency histogram, the number of participants across regions is as follows: Tayside – 10,896, Glasgow – 9,415, Perthshire – 2,488, Grampian – 1,196, and Ayrshire – 72. A pie chart depicting sex distribution shows that 58.8% of participants are female and 41.2% are male.
+
+The age distribution of Generation Scotland participants, visualized as a frequency versus age chart, is slightly skewed at both ends, with ages ranging from 18 to 95 years. This indicates participation across both young and older age groups, with a median age of 55.
+
+The ethnicity distribution reveals that the majority of participants are White (22,824), followed by Asian (113), while Black participants are the least represented (16). During stakeholder meetings, I emphasized the importance of engaging underrepresented ethnic groups, highlighting that even minority populations could provide valuable insights for DTA cohorts. My input was appreciated, and I supported it with references to my analysis of the Generation Scotland dataset using artificial intelligence.
+
+  
+### Summary of limitations for OMOP transformation and clinical trial utility
+#### Structural Misalignment
+Some cohorts store clinical data in non-relational or wide-format structures that do not directly map to OMOP CDM concepts.
+Some cohorts store bespoke(Customized) questionnaire data that doesn't map to OMOP CDM concepts. 
+Inconsistent coding across timepoints (e.g. changes to cohort questionnaires over time)
+
+#### Lack of Temporal Data for self-reported data
+Inadequate capture of event dates for clinical encounters, which hinders longitudinal analysis. (Single date from cohort entry)
+
+#### Challenges during OMOP mapping
+Missing variable documentation (e.g. not enough information to understand data or structure)
+Mapping region at a very high-level (e.g 5 levels for Scotland)
+Mapping multiple granular ICD10 codes to high-level phenotypes (e.g. Dementia)
+
+
+
