@@ -65,5 +65,21 @@ Missing variable documentation (e.g. not enough information to understand data o
 Mapping region at a very high-level (e.g 5 levels for Scotland)
 Mapping multiple granular ICD10 codes to high-level phenotypes (e.g. Dementia)
 
+### Recommendations for additional cohorts to broaden vocabulary coverage
+#### Cohorts with Rich Clinical Data
+Seek cohorts with deep phenotyping (e.g., imaging, lab, neuropsychic assessments) and structured EHR linkages
+
+#### Underrepresented Populations
+Target datasets with ethnic, geographic, and age diversity, including care home residents, younger-onset dementia, and rare dementia subtypes
+
+#### Longitudinal and Real-World Data
+Include cohorts with 5+ years of follow-up, linked NHS and mortality data, and repeat measures for progression modelling
+
+#### Consent for Recontact/Trials
+Focus on cohorts that explicitly support trial recruitment, recontact, and consent for data linkage, enabling better matchmaking
+
+
+
+
 
 
