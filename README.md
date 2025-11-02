@@ -35,9 +35,12 @@ The harmonized data is then loaded into the OMOP CDM database, making it accessi
 
 By directly mapping datasets to OMOP standards, my work ensured that data from diverse cohorts could be analyzed and queried consistently, supporting real-world dementia research and enabling impactful clinical trial matching.
  
-![Image](https://github.com/user-attachments/assets/b2299206-47ff-47f1-a31a-fe4b79bf66e1)
+![Image](https://github.com/user-attachments/assets/8937a938-c53f-4e30-9324-f20ab231ada2)
   ### Data Collection and Pre-processing(ETL Life-Cycle)
   
-![Image](https://github.com/user-attachments/assets/b9b38dc8-3b79-4989-bc9d-0d04cc762f3e)
+![Image](https://github.com/user-attachments/assets/aa15697b-59e0-4e15-8208-d392be0f7df1)
+  ### Comparative Analysis on the Various Cohorts
+
+![Image](https://github.com/user-attachments/assets/38e8453e-eb21-4c7f-9681-684f3254da95)
   ### Comparative Analysis on the Various Cohorts
 
